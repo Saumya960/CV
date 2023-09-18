@@ -1,6 +1,6 @@
 # Saumya Kumari
 
-![Profile Picture](JPG File (.jpg))
+![Profile Picture](image/IMG-20221010-WA0001.jpg)
 
 ## About Me
 I am a completed HND from Nilwala National College of Education, I
